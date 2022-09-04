@@ -1,15 +1,6 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <algorithm>
-#include <queue>
-#include <map>
-#include <unordered_map>
-#include <unordered_set>
-
+#include <bits/stdc++.h>
 #define FOR(i, j) for(int i = 0; i < j; i++)
 #define REP(n) FOR(_, n)
-
 using namespace std;
 
 int heights[10001];
